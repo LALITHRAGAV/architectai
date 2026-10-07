@@ -1,0 +1,6 @@
+{
+  "name": "Mini AI Software Architect",
+  "description": "AI-powered software architecture generator and design workbench that analyzes requirements to produce comprehensive system architecture specifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
